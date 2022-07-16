@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nufa/static/css/main.f7eb0743.css",
-    "main.js": "/nufa/static/js/main.311cb03d.js",
+    "main.css": "/nufa/static/css/main.8c394622.css",
+    "main.js": "/nufa/static/js/main.2f8be4d9.js",
     "static/media/logo.png": "/nufa/static/media/logo.cdd9e7a425f6e729b08a.png",
     "index.html": "/nufa/index.html",
-    "main.f7eb0743.css.map": "/nufa/static/css/main.f7eb0743.css.map",
-    "main.311cb03d.js.map": "/nufa/static/js/main.311cb03d.js.map"
+    "main.8c394622.css.map": "/nufa/static/css/main.8c394622.css.map",
+    "main.2f8be4d9.js.map": "/nufa/static/js/main.2f8be4d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7eb0743.css",
-    "static/js/main.311cb03d.js"
+    "static/css/main.8c394622.css",
+    "static/js/main.2f8be4d9.js"
   ]
 }
