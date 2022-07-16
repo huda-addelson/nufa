@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nufa/static/css/main.8f6f480f.css",
+    "main.js": "/nufa/static/js/main.667bd619.js",
+    "static/media/logo.png": "/nufa/static/media/logo.cdd9e7a425f6e729b08a.png",
+    "index.html": "/nufa/index.html",
+    "main.8f6f480f.css.map": "/nufa/static/css/main.8f6f480f.css.map",
+    "main.667bd619.js.map": "/nufa/static/js/main.667bd619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f6f480f.css",
+    "static/js/main.667bd619.js"
+  ]
+}
